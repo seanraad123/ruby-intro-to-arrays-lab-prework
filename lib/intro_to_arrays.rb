@@ -7,3 +7,6 @@ def array_with_two_elements
   new_array = ['element_one', 'element_two']
   return new_array
 end
+
+def first_element(array)
+  return array[0]
